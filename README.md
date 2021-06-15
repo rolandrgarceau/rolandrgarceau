@@ -1,4 +1,6 @@
-### Hi there 👋
+# I'm Rudy Garceau
+## I can write in markdown directly and I have rendered it in several languages and frameworks over the years.
+### This is my personal README.MD
 
 <!--
 **rolandrgarceau/rolandrgarceau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
